@@ -1,6 +1,5 @@
 # Inlämningsuppgift hösten 18
 
----
 [Till siten](http://api.inlup2.babiluskus.se/)
 ---
 Sidan är byggd i js och gör crud-operationer mot restful-api'et som var den andra delen av denna uppgift.
