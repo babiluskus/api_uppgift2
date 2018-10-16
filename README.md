@@ -2,7 +2,7 @@
 
 [Till siten](http://api.inlup2.babiluskus.se/)
 ---
-Sidan är byggd i js och gör crud-operationer mot restful-api'et som var den andra delen av denna uppgift.
+Sidan är byggd i js och gör crud-operationer mot [restful-api'et](https://github.com/babiluskus/restful_api_inlup_2) som var den andra delen av denna uppgift.
 På sidan kan man se ett antal städer och :
    * visa mer information
    * uppdatera informationen
